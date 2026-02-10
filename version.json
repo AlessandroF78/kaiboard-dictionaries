@@ -1,0 +1,71 @@
+﻿{
+    "version":  "1.0.0",
+    "release_date":  "2026-02-10",
+    "languages":  [
+                      {
+                          "size_kb":  1333,
+                          "code":  "it_IT",
+                          "name":  "Italian"
+                      },
+                      {
+                          "size_kb":  1111,
+                          "code":  "de_DE",
+                          "name":  "German"
+                      },
+                      {
+                          "size_kb":  9903,
+                          "code":  "el_GR",
+                          "name":  "Greek"
+                      },
+                      {
+                          "size_kb":  542,
+                          "code":  "en_US",
+                          "name":  "English (US)"
+                      },
+                      {
+                          "size_kb":  864,
+                          "code":  "es_ES",
+                          "name":  "Spanish"
+                      },
+                      {
+                          "size_kb":  1395,
+                          "code":  "fr_FR",
+                          "name":  "French"
+                      },
+                      {
+                          "size_kb":  3856,
+                          "code":  "ka_GE",
+                          "name":  "Georgian"
+                      },
+                      {
+                          "size_kb":  1864,
+                          "code":  "nl_NL",
+                          "name":  "Dutch"
+                      },
+                      {
+                          "size_kb":  4674,
+                          "code":  "pl_PL",
+                          "name":  "Polish"
+                      },
+                      {
+                          "size_kb":  1544,
+                          "code":  "pt_PT",
+                          "name":  "Portuguese"
+                      },
+                      {
+                          "size_kb":  37520,
+                          "code":  "tr_TR",
+                          "name":  "Turkish"
+                      },
+                      {
+                          "size_kb":  3461,
+                          "code":  "ru_RU",
+                          "name":  "Russian"
+                      },
+                      {
+                          "size_kb":  8579,
+                          "code":  "uk_UA",
+                          "name":  "Ukrainian"
+                      }
+                  ]
+}
