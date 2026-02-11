@@ -1,0 +1,84 @@
+{
+  "version": "1.1",
+  "release_date": "2026-02-11",
+  "languages": [
+    {
+      "code": "de_DE",
+      "name": "German",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/de_DE_autocorrect_v1.1.zip",
+      "size_mb": 1.03
+    },
+    {
+      "code": "el_GR",
+      "name": "Greek",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/el_GR_autocorrect_v1.1.zip",
+      "size_mb": 5.46
+    },
+    {
+      "code": "en_US",
+      "name": "English (US)",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/en_US_autocorrect_v1.1.zip",
+      "size_mb": 0.18
+    },
+    {
+      "code": "es_ES",
+      "name": "Spanish",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/es_ES_autocorrect_v1.1.zip",
+      "size_mb": 0.23
+    },
+    {
+      "code": "fr_FR",
+      "name": "French",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/fr_FR_autocorrect_v1.1.zip",
+      "size_mb": 0.32
+    },
+    {
+      "code": "it_IT",
+      "name": "Italian",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/it_IT_autocorrect_v1.1.zip",
+      "size_mb": 0.34
+    },
+    {
+      "code": "ka_GE",
+      "name": "Georgian",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/ka_GE_autocorrect_v1.1.zip",
+      "size_mb": 0.53
+    },
+    {
+      "code": "nl_NL",
+      "name": "Dutch",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/nl_NL_autocorrect_v1.1.zip",
+      "size_mb": 1.9
+    },
+    {
+      "code": "pl_PL",
+      "name": "Polish",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/pl_PL_autocorrect_v1.1.zip",
+      "size_mb": 4.7
+    },
+    {
+      "code": "pt_PT",
+      "name": "Portuguese",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/pt_PT_autocorrect_v1.1.zip",
+      "size_mb": 1.54
+    },
+    {
+      "code": "ru_RU",
+      "name": "Russian",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/ru_RU_autocorrect_v1.1.zip",
+      "size_mb": 0.58
+    },
+    {
+      "code": "tr_TR",
+      "name": "Turkish",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/tr_TR_autocorrect_v1.1.zip",
+      "size_mb": 37.5
+    },
+    {
+      "code": "uk_UA",
+      "name": "Ukrainian",
+      "url": "https://github.com/AlessandroF78/kaiboard-dictionaries/releases/download/v1.1/uk_UA_autocorrect_v1.1.zip",
+      "size_mb": 1.83
+    }
+  ]
+}
